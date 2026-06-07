@@ -1,0 +1,8 @@
+las APIS ayudan a la comunidad en el sentido de que organiza las
+informaciones o reportes, y ademas guardan todos los datos de 
+usuarios de la comunidad y los mas importante es que el usuario puede
+mirar o colsultar su propuesta gracias a la APIS, tambien es bueno ya que
+por medio de la api se le puede decir al personal sobre la situacion de la
+propuesta si esta pendiente, en proceso o ya esra resuelto su caso, esto
+es bueno ya que las personas se animan a participar al darse cuanta de que
+si son escuchadas.

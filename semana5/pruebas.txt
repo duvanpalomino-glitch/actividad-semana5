@@ -1,0 +1,3 @@
+la ruta get '/': me muestra que el servidor esta activo.
+la ruta get /saludo: me muestra un saludo que dice (hola comunidad)
+la ruta get /mensaje/:Duvan: me muestra (hola :Duvan)

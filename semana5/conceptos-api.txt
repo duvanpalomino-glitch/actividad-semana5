@@ -1,0 +1,6 @@
+la ruta post /reporte: sirve para que las perosnas desde frontend, en el body
+envien reportes, al llegar al mensaje al servidor el servidor responde que el
+reporte fue recibido.
+
+en una comuniad sirve para poder comunicarse de forma mas rapidada y que cada
+perosna suba su reporte

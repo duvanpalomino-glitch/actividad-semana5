@@ -1,0 +1,24 @@
+{
+  "name": "actividad-semana5",
+  "version": "1.0.0",
+  "description": "crear servidor con express, arrancar el servidor, crear y usar las rutas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duvanpalomino-glitch/actividad-semana5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/duvanpalomino-glitch/actividad-semana5/issues"
+  },
+  "homepage": "https://github.com/duvanpalomino-glitch/actividad-semana5#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
